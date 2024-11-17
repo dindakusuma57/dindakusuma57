@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Nur Zharifah Pradinda Kusuma</h1>
+<h1 align="center">Hi 👋, I'm Dinda Kusuma</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dindakusuma57&label=Profile%20views&color=0e75b6&style=flat" alt="dindakusuma57" /> </p>
